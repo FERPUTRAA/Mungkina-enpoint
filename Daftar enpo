@@ -198,5 +198,17 @@ https://web.vava.chat/api/v1/client/connection
 }
 
 
+curl 'https://45-196-22-17.edge.agora.io/ws/?p=4859' -H 'Host: 45-196-22-17.edge.agora.io' -H 'Connection: Upgrade' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' -H 'User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Stargon/6.3.2 Chrome/147.0.7727.111 Mobile Safari/537.36' -H 'Upgrade: websocket' -H 'Origin: https://web.vava.chat' -H 'Sec-WebSocket-Version: 13' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7' -H 'Sec-WebSocket-Key: TbL6Tg3BrXd/Ivvm7jTVxA==' -H 'Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits'
 
+
+
+curl 'https://129-227-71-138.edge.sd-rtn.com/ws/?p=4852' -H 'Host: 129-227-71-138.edge.sd-rtn.com' -H 'Connection: Upgrade' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' -H 'User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36' -H 'Upgrade: websocket' -H 'Origin: https://web.vava.chat' -H 'Sec-WebSocket-Version: 13' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Accept-Language: en-US,en;q=0.9' -H 'Sec-WebSocket-Key: qx5M1CSoD8d01nrrnJ4C+Q==' -H 'Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits'
+
+
+
+
+curl 'https://129-227-71-138.edge.sd-rtn.com/ws/?p=4852' -H 'Host: 129-227-71-138.edge.sd-rtn.com' -H 'Connection: Upgrade' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' -H 'User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36' -H 'Upgrade: websocket' -H 'Origin: https://web.vava.chat' -H 'Sec-WebSocket-Version: 13' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Accept-Language: en-US,en;q=0.9' -H 'Sec-WebSocket-Key: qx5M1CSoD8d01nrrnJ4C+Q==' -H 'Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits'
+
+
+Gunakan jadx-gui untuk melihat kode Java dan mencari string yang mencurigakan (misalnya, App ID biasanya berupa string 32 karakter).Gunakan tcpdump di perangkat untuk menangkap semua paket data.Setelah Anda mendapatkan App ID, parameter, dan memahami format Protobuf, Anda bisa membuat script Python (menggunakan websocket-client atau aiohttp) yang mencoba melakukan handshake WebSocket dan mengirim payload yang sama seperti yang Anda tangkap.
 
