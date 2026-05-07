@@ -1,0 +1,202 @@
+(OPTIONS)
+https://cds-ap-web-3.agora.io/api/v1?action=config
+
+https://cds-web-2.ap.sd-rtn.com/api/v1?action=config
+
+https://cds-ap-web-1.agora.io/api/v1?action=config
+
+
+(GET)
+https://vbi.vervachat.com/ws?uid=13910632&token=bf34649655074f18a425669faf312c60&version=1
+
+https://162-128-3-220.edge.sd-rtn.com/
+
+https://web.vava.chat/api/v1/client/connection/recommends/ver
+
+https://45-196-22-17.edge.agora.io/ws/?p=4859
+
+https://45-196-22-17.edge.agora.io/
+
+https://qchatweblink01-sg.netease.im/websocket
+
+https://129-227-71-138.edge.sd-rtn.com/ws/?p=4852
+
+https://129-227-71-138.edge.agora.io/
+
+https://lbs-sdk.netease.im/lbs/webconf.jsp?k=6607b59804ba4209159076ba3c11d37e&id=online_13910341&sv=180&pv=1&networkType=0&lv=1
+
+
+
+(Unknown)
+
+https://log.lnk.events
+
+https://statistic-overseas.yunxinfw.com
+
+https://change-api.netease.im
+
+https://abt-online.netease.im
+
+https://statistic.live.126.net
+
+https://source.camfan.chat
+
+https://abt-online.netease.im
+
+https://weblink01-sg.netease.im
+
+https://webrtc2-4.ap.sd-rtn.com
+
+https://164-52-103-187.edge.agora.io
+
+https://statistic-overseas.yunxinfw.com
+
+https://164-52-103-189.edge.agora.io
+https://vbi.vervachat.com
+
+https://sentry.goparty.tech
+
+(Post)
+https://webrtc2-4.ap.sd-rtn.com/api/v2/transpond/webrtc?v=2 
+
+Request hadder 
+
+ form-data; name="request"
+
+{"appid":"2f62afc1e7df4c71957bea05f56c8cbb","client_ts":1778048157210,"opid":103644044010,"sid":"3B884CC3938449C0B915D7E146046664","request_bodies":[{"uri":22,"buffer":{"cname":"ol_20260524942727842768794","detail":{"11":"CN,GLOBAL","17":"1","22":"CN,GLOBAL"},"key":"0062f62afc1e7df4c71957bea05f56c8cbbIAD1GTZQKn5/gTpf9oMkNBLpdTNbgNVs2T6g1eDZP0IgNNmsrb5x7VqDIgCgMpphGy78aQQAAQBbhftpAgBbhftpAwBbhftpBABbhftp","service_ids":[11,26],"uid":13872374}}]}
+------WebKitFormBoundaryQefPwv21nBzp833Q--
+'
+
+
+
+Atau pake  ini
+
+req_1778048158877.txt
+
+
+------WebKitFormBoundaryQefPwv21nBzp833Q
+Content-Disposition: form-data; name="request"
+
+{"appid":"2f62afc1e7df4c71957bea05f56c8cbb","client_ts":1778048157210,"opid":103644044010,"sid":"3B884CC3938449C0B915D7E146046664","request_bodies":[{"uri":22,"buffer":{"cname":"ol_20260524942727842768794","detail":{"11":"CN,GLOBAL","17":"1","22":"CN,GLOBAL"},"key":"0062f62afc1e7df4c71957bea05f56c8cbbIAD1GTZQKn5/gTpf9oMkNBLpdTNbgNVs2T6g1eDZP0IgNNmsrb5x7VqDIgCgMpphGy78aQQAAQBbhftpAgBbhftpAwBbhftpBABbhftp","service_ids":[11,26],"uid":13872374}}]}
+------WebKitFormBoundaryQefPwv21nBzp833Q--
+
+
+
+https://webrtc2-4.ap.sd-rtn.com/api/v2/transpond/webrtc?v=2
+
+req_1778130999665.txt
+
+------WebKitFormBoundary8w8fgWcBQ39JN7x5
+Content-Disposition: form-data; name="request"
+
+{"appid":"2f62afc1e7df4c71957bea05f56c8cbb","client_ts":1778130996221,"opid":430005610056,"sid":"5025187B742E48D7A6E4B2EACC43404F","request_bodies":[{"uri":22,"buffer":{"cname":"ol_20260524964443163086014","detail":{"11":"CN,GLOBAL","17":"1","22":"CN,GLOBAL"},"key":"0062f62afc1e7df4c71957bea05f56c8cbbIABibxZK8Z4p7ToiT3h9Wu9nDgk244Jv2H7WrmCEr1Mt1JXQa64loYvmIgBWM5jfsXH9aQQAAQDxyPxpAgDxyPxpAwDxyPxpBADxyPxp","service_ids":[11,26],"uid":13910632}}]}
+------WebKitFormBoundary8w8fgWcBQ39JN7x5--
+
+
+
+
+
+
+
+
+https://statscollector-1.agora.io/events/messages
+
+{"msgType":"EventMessages","sentTs":1778131027,"payloads":["{\"type\":\"io.agora.pb.Wrtc.ApiInvoke\",\"data\":{\"invokeId\":25,\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"cname\":\"ol_20260524964443163086014\",\"cid\":2316237321,\"uid\":13910632,\"lts\":1778131026912,\"success\":true,\"elapse\":31802,\"execElapse\":0,\"apiName\":\"connectionStateChange\",\"options\":\"[\\\"DISCONNECTING\\\",\\\"CONNECTED\\\",null]\",\"execResult\":\"\\\"{\\\\\\\"cur\\\\\\\":\\\\\\\"DISCONNECTING\\\\\\\",\\\\\\\"prev\\\\\\\":\\\\\\\"CONNECTED\\\\\\\"}\\\"\"}}","{\"type\":\"io.agora.pb.Wrtc.ApiInvoke\",\"data\":{\"invokeId\":26,\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"cname\":\"ol_20260524964443163086014\",\"cid\":2316237321,\"uid\":13910632,\"lts\":1778131026946,\"success\":true,\"elapse\":31836,\"execElapse\":0,\"apiName\":\"connectionStateChange\",\"options\":\"[\\\"DISCONNECTED\\\",\\\"DISCONNECTING\\\",\\\"UID_BANNED\\\"]\",\"execResult\":\"\\\"{\\\\\\\"cur\\\\\\\":\\\\\\\"DISCONNECTED\\\\\\\",\\\\\\\"prev\\\\\\\":\\\\\\\"DISCONNECTING\\\\\\\",\\\\\\\"reason\\\\\\\":\\\\\\\"UID_BANNED\\\\\\\"}\\\"\"}}","{\"type\":\"io.agora.pb.Wrtc.ApiInvoke\",\"data\":{\"invokeId\":22,\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"cname\":\"ol_20260524964443163086014\",\"cid\":2316237321,\"uid\":13910632,\"lts\":1778131026970,\"success\":true,\"elapse\":31860,\"execElapse\":684,\"apiName\":\"Client.leave\",\"options\":\"[]\"}}"],"vid":1598044}
+
+
+
+https://statscollector-1.agora.io/events/messages
+
+{
+  "msgType": "EventMessages",
+  "sentTs": 1778131027,
+  "payloads": [
+    "{\"type\":\"io.agora.pb.Wrtc.WebSocketQuit\",\"data\":{\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"lts\":1778131026942,\"success\":null,\"cname\":\"ol_20260524964443163086014\",\"uid\":13910632,\"peer\":null,\"cid\":2316237321,\"elapse\":31832,\"extend\":null,\"vid\":\"1598044\",\"succ\":-1,\"errorCode\":\"SERVER_ERROR\"}}"
+  ],
+  "vid": 1598044
+}
+
+
+
+https://statscollector-1.agora.io/events/messages
+
+{
+  "msgType": "EventMessages",
+  "sentTs": 1778131026,
+  "payloads": [
+    "{\"type\":\"io.agora.pb.Wrtc.RteDetailStats\",\"data\":{\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"lts\":1778131026294,\"success\":true,\"cname\":\"ol_20260524964443163086014\",\"uid\":13910632,\"peer\":null,\"cid\":2316237321,\"elapse\":31184,\"extend\":null,\"vid\":1598044,\"eventType\":\"rte_detail_stats\",\"ua\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36\"}}"
+  ],
+  "vid": 1598044
+}
+
+
+
+https://statscollector-1.agora.io/events/messages
+
+{
+  "msgType": "EventMessages",
+  "sentTs": 1778131027,
+  "payloads": [
+    "{\"type\":\"io.agora.pb.Wrtc.ApiInvoke\",\"data\":{\"invokeId\":25,\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"cname\":\"ol_20260524964443163086014\",\"cid\":2316237321,\"uid\":13910632,\"lts\":1778131026912,\"success\":true,\"elapse\":31802,\"execElapse\":0,\"apiName\":\"connectionStateChange\",\"options\":\"[\\\"DISCONNECTING\\\",\\\"CONNECTED\\\",null]\",\"execResult\":\"\\\"{\\\\\\\"cur\\\\\\\":\\\\\\\"DISCONNECTING\\\\\\\",\\\\\\\"prev\\\\\\\":\\\\\\\"CONNECTED\\\\\\\"}\\\"\"}}",
+    "{\"type\":\"io.agora.pb.Wrtc.ApiInvoke\",\"data\":{\"invokeId\":26,\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"cname\":\"ol_20260524964443163086014\",\"cid\":2316237321,\"uid\":13910632,\"lts\":1778131026946,\"success\":true,\"elapse\":31836,\"execElapse\":0,\"apiName\":\"connectionStateChange\",\"options\":\"[\\\"DISCONNECTED\\\",\\\"DISCONNECTING\\\",\\\"UID_BANNED\\\"]\",\"execResult\":\"\\\"{\\\\\\\"cur\\\\\\\":\\\\\\\"DISCONNECTED\\\\\\\",\\\\\\\"prev\\\\\\\":\\\\\\\"DISCONNECTING\\\\\\\",\\\\\\\"reason\\\\\\\":\\\\\\\"UID_BANNED\\\\\\\"}\\\"\"}}",
+    "{\"type\":\"io.agora.pb.Wrtc.ApiInvoke\",\"data\":{\"invokeId\":22,\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"cname\":\"ol_20260524964443163086014\",\"cid\":2316237321,\"uid\":13910632,\"lts\":1778131026970,\"success\":true,\"elapse\":31860,\"execElapse\":684,\"apiName\":\"Client.leave\",\"options\":\"[]\"}}"
+  ],
+  "vid": 1598044
+}
+
+
+
+https://statscollector-1.agora.io/events/messages
+
+{
+  "msgType": "EventMessages",
+  "sentTs": 1778131005,
+  "payloads": [
+    "{\"type\":\"io.agora.pb.Wrtc.PeerPublishStatus\",\"data\":{\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"lts\":1778131005162,\"success\":null,\"cname\":\"ol_20260524964443163086014\",\"uid\":13910632,\"peer\":13408519,\"cid\":2316237321,\"elapse\":10052,\"extend\":null,\"vid\":\"1598044\",\"subscribeElapse\":3049,\"peerPublishDuration\":9100,\"audiotag\":1,\"videotag\":1,\"joinChannelSuccessElapse\":3150,\"peerPublishDurationVideo\":9052,\"peerPublishDurationAudio\":9100}}"
+  ],
+  "vid": 1598044
+}
+
+
+https://statscollector-1.agora.io/events/messages
+
+{
+  "msgType": "EventMessages",
+  "sentTs": 1778131003,
+  "payloads": [
+    "{\"type\":\"io.agora.pb.Wrtc.AutoplayFailed\",\"data\":{\"sid\":\"5025187B742E48D7A6E4B2EACC43404F\",\"lts\":1778131002932,\"success\":null,\"cname\":\"ol_20260524964443163086014\",\"uid\":13910632,\"peer\":null,\"cid\":2316237321,\"elapse\":7822,\"vid\":1598044,\"cbRegistered\":-1,\"errorMsg\":\"The play() request was interrupted by a new load request. https://goo.gl/LdLk22\",\"mediaType\":\"video\",\"trackId\":\"track-video-13408519-client-90d9f_d1e61\"}}"
+  ],
+  "vid": 1598044
+}
+
+
+https://webrtc2-4.ap.sd-rtn.com/api/v2/transpond/webrtc?v=2
+
+req_1778130999665.txt
+
+------WebKitFormBoundary8w8fgWcBQ39JN7x5
+Content-Disposition: form-data; name="request"
+
+{"appid":"2f62afc1e7df4c71957bea05f56c8cbb","client_ts":1778130996221,"opid":430005610056,"sid":"5025187B742E48D7A6E4B2EACC43404F","request_bodies":[{"uri":22,"buffer":{"cname":"ol_20260524964443163086014","detail":{"11":"CN,GLOBAL","17":"1","22":"CN,GLOBAL"},"key":"0062f62afc1e7df4c71957bea05f56c8cbbIABibxZK8Z4p7ToiT3h9Wu9nDgk244Jv2H7WrmCEr1Mt1JXQa64loYvmIgBWM5jfsXH9aQQAAQDxyPxpAgDxyPxpAwDxyPxpBADxyPxp","service_ids":[11,26],"uid":13910632}}]}
+------WebKitFormBoundary8w8fgWcBQ39JN7x5
+
+
+
+
+https://beacons.gvt2.com/domainreliability/upload
+
+{"entries":[{"http_response_code":200,"network_changed":true,"protocol":"QUIC","request_age_ms":63111,"request_elapsed_ms":98,"sample_rate":0.05,"server_ip":"[2404:6800:4001:817::200e]:443","status":"ok","url":"https://encrypted-tbn0.gstatic.com/","was_proxied":false}],"reporter":"chrome"}
+
+
+
+
+https://web.vava.chat/api/v1/client/connection
+
+{
+  "appVersion": 1,
+  "matchingRoundIdentifier": "1778130975466_hpur8s64"
+}
+
+
+
+
